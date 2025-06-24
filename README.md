@@ -13,8 +13,8 @@ This is a full-stack application to manage courses and their instances, built us
 
 | Part     | Technology       | Link                                     |
 |----------|------------------|------------------------------------------|
-| Backend  | Java Spring Boot | [Backend GitHub Repo](<https://github.com/sanyam000/course-frontend>) |
-| Frontend | ReactJS          | [Frontend GitHub Repo](<https://github.com/sanyam000/course-backend>) |
+| Backend  | Java Spring Boot | [Backend GitHub Repo](<https://github.com/sanyam000/course-backend>) |
+| Frontend | ReactJS          | [Frontend GitHub Repo](<https://github.com/sanyam000/course-frontend>) |
 
 ---
 
